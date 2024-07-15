@@ -1,2 +1,0 @@
-Student{id=2, name=b, address=b, age=1, gpa=2.0}
-Student{id=3, name=c, address=c, age=1, gpa=4.0}
